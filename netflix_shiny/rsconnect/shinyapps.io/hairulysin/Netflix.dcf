@@ -1,0 +1,14 @@
+name: Netflix
+title: Netflix
+username:
+account: hairulysin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9242990
+bundleId: 7301682
+url: https://hairulysin.shinyapps.io/Netflix/
+when: 1685853361.11038
+lastSyncTime: 1685853361.11039
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_IP/lazada.csv
